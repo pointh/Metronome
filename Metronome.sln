@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metronome", "Metronome\Metronome.csproj", "{0A237AB9-362F-4763-889A-BA2FCB119D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A237AB9-362F-4763-889A-BA2FCB119D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A237AB9-362F-4763-889A-BA2FCB119D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A237AB9-362F-4763-889A-BA2FCB119D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A237AB9-362F-4763-889A-BA2FCB119D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0048BB3F-CCEB-4EBE-8D95-DE65741D090D}
+	EndGlobalSection
+EndGlobal

@@ -21,7 +21,7 @@ namespace Metronome {
                 if (TickEvent != null)
                 {
                     Tick t = new Tick() { d = DateTime.Now }; // vytvoří objekt s informací o stavu
-                    TickEvent(t); // ... a spustí se všechny připojené metody s argumentem t
+                    TickEvent?.Invoke(t); // ... a spustí se všechny připojené metody s argumentem t
                 }
             }
         }
